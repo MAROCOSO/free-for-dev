@@ -1,1 +1,1 @@
-First commit in branch "branch1"
+Second commit in branch "branch1"
