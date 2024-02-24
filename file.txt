@@ -1,1 +1,1 @@
-Second commit in branch "branch2"
+Third commit in branch "branch2"
